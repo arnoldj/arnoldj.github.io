@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on James Arnold</title>
+    <link>https://arnoldj.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on James Arnold</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 09 Aug 2015 10:38:05 -0600</lastBuildDate>
+    
+	<atom:link href="https://arnoldj.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Classification of wetlands in the Reader Creek Basin using remote sensing and water chemistry, Uinta Mountains, USA</title>
+      <link>https://arnoldj.github.io/publication/uga_2015/</link>
+      <pubDate>Sun, 09 Aug 2015 10:38:05 -0600</pubDate>
+      
+      <guid>https://arnoldj.github.io/publication/uga_2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accuracy assessment of service area approximation algorithms for critical infrastructure recovery.</title>
+      <link>https://arnoldj.github.io/publication/ifip_2015/</link>
+      <pubDate>Sat, 09 Aug 2014 10:38:05 -0600</pubDate>
+      
+      <guid>https://arnoldj.github.io/publication/ifip_2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large wildfire trends in the western United States, 1984-2011</title>
+      <link>https://arnoldj.github.io/publication/grl_2014/</link>
+      <pubDate>Sat, 09 Aug 2014 10:38:05 -0600</pubDate>
+      
+      <guid>https://arnoldj.github.io/publication/grl_2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling climate-fire connections within The Great Basin and Upper Colorado River Basin, Western United States.</title>
+      <link>https://arnoldj.github.io/publication/fire_ecology_2014/</link>
+      <pubDate>Sat, 09 Aug 2014 10:38:05 -0600</pubDate>
+      
+      <guid>https://arnoldj.github.io/publication/fire_ecology_2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
